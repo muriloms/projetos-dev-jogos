@@ -4,7 +4,7 @@ ___
 # ----- UNITY -----
 ## Materiais de apoio
 Repositório organizando materiais para o desenvolvimento de jogos: instalação, artes, áudios, games, etc </br>
-https://github.com/muriloms/projetos-dev-jogos/blob/master/unity/materiaisDev.md
+https://github.com/muriloms/projetos-dev-jogos/blob/master/unity/materiais-dev.md
 
 ## Mecânicas jogador
 
@@ -22,6 +22,7 @@ https://github.com/muriloms/projetos-dev-jogos/blob/master/unity/materiaisDev.md
 
 
 # ----- PYGAME -----
-
+## Materiais de apoio
+https://github.com/muriloms/projetos-dev-jogos/blob/master/pygame/materiais-dev.md
 
 # ----- PHASER -----
