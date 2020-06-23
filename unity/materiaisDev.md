@@ -3,7 +3,7 @@
 
 ## Instalação e Utilizar VSCode
 - Instalação Unity Ubuntu: </br>
-https://github.com/muriloms/materiais-dev-jogos/tree/master/instalacao
+https://github.com/muriloms/projetos-dev-jogos/blob/master/unity/instalacao-unity.md
 
 ### Plugins Unity
 - Unity Recorder</br>
