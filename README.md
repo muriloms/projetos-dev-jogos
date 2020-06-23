@@ -1,7 +1,7 @@
 # Desenvolvimento de Jogos
 ___
 
-# UNITY
+# ----- UNITY -----
 ## Materiais de apoio
 Repositório organizando materiais para o desenvolvimento de jogos: instalação, artes, áudios, games, etc </br>
 https://github.com/muriloms/materiais-dev-jogos
@@ -22,7 +22,7 @@ https://github.com/muriloms/materiais-dev-jogos
 ## Cenários e fases
 
 
-# PYGAME
+# ----- PYGAME -----
 
 
-# PHASER
+# ----- PHASER -----
