@@ -4,8 +4,7 @@ ___
 # ----- UNITY -----
 ## Materiais de apoio
 Repositório organizando materiais para o desenvolvimento de jogos: instalação, artes, áudios, games, etc </br>
-https://github.com/muriloms/materiais-dev-jogos
-
+https://github.com/muriloms/projetos-dev-jogos/blob/master/unity/materiaisDev.md
 
 ## Mecânicas jogador
 
