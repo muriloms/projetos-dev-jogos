@@ -3,7 +3,7 @@
 ## Tutorial:
 https://www.youtube.com/watch?v=7nxKAtxGSn8&list=LL5K8iTCCUebXuEY4eK-njBg&index=3&t=408s
 
-** tutorial mais completos:**
+**tutorial mais completo:**
 
 https://www.youtube.com/watch?v=047t_yQZcNA
 
