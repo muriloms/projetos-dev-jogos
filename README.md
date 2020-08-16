@@ -29,6 +29,13 @@ https://github.com/muriloms/unity-2D-platform-basic
 
 ## Cenários e fases
 
+## Estudos
+- Evolução da camuflagem com algoritmos genéticos
+
+Estudo da evolução da camuflagem com algoritmo genético na engine Unity
+
+https://github.com/muriloms/unity-genetic-algorithms-camouflage
+
 
 # ----- PYGAME -----
 ## Materiais de apoio
