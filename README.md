@@ -44,6 +44,11 @@ https://github.com/muriloms/unity-genetic-algorithms-camouflage
 ## Jogo da Velha no terminal com C++
 https://github.com/muriloms/jogo-velha-terminal-c
 
+## Jogo ParaPong
+Desenvolvimento do jogo Parapong - clássico ping pong com personagens humanos.
+
+https://github.com/muriloms/game-parapong
+
 # ----- PYGAME -----
 ## Materiais de apoio
 https://github.com/muriloms/projetos-dev-jogos/blob/master/pygame/materiais-dev.md
