@@ -25,7 +25,7 @@ https://github.com/muriloms/unity-2D-platform-basic
 
 ## Interface do usuário
 
-### Sistemas Multiplo idiomas
+### Sistema Multiplo idiomas
 Sistemas básico para implementação de multiplos idiomas nos jogos
 
 https://github.com/muriloms/unity-sistema-idiomas
